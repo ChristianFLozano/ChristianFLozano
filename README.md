@@ -1,7 +1,21 @@
-- 👋 Hi, I’m @ChristianFLozano
-- 📖 I'm study informatic engineering at CUCEI
-- 🎵 I love music in special corridos tumbados, like Peso pluma
-- 💻 I believe that technology is the most important thing to the future.
+<h1>Hi, I'm Jhovany</h1>
+
+<h2>About me </h2>
+- 👋 Hi, I’m @ChristianFLozano <br>
+- 📖 I'm studying informatic engineering at CUCEI <br>
+- 🎵 I love music, especially corridos tumbados, like Peso Pluma <br>
+- 💻 I believe that technology is the most important thing for the future. <br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!---
