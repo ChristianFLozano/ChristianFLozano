@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ChristianFLozano
-- 👀 I’m interested in learn 
-- 🌱 I’m currently learning database, node.js & python
+- 📖 I'm study informatic engineering at CUCEI
+- 🎵 I love music in special corridos tumbados, like Peso pluma
+- 💻 I believe that technology is the most important thing to the future.
 
 
 <!---
