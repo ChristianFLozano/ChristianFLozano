@@ -1,20 +1,23 @@
-<h1>Hi, I'm Jhovany</h1>
+# Hi, I'm Jhovany 👋
 
-<h2>About me </h2>
-- 👋 Hi, I’m @ChristianFLozano <br>
-- 📖 I'm studying informatic engineering at CUCEI <br>
-- 🎵 I love music, especially corridos tumbados, like Peso Pluma <br>
-- 💻 I believe that technology is the most important thing for the future. <br>
+## About me!  
+- 👨‍💻 I'm @ChristianFLozano  
+- 📚 I study informatic engeenering at CUCEI  
+- 🎶 I love music, special **corridos tumbados**, like **Peso Pluma**  
+- 💡 I love technology, beacause I believe that it is the future  
 
-
-
-
-
-
+### Achievements  
+- 🛡️ TryHackMe progress:  
+ <img src="https://tryhackme-badges.s3.amazonaws.com/christian.flores.png" alt="Your Image Badge" width=400 />
 
 
+---
 
+## Technologies and tools  
+![Lenguajes y Herramientas](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,java,nodejs,react,postgresql,git,github,linux)
 
+## GitHub Statistics  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true&theme=dark)
 
 
 
