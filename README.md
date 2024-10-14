@@ -53,7 +53,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChristianFLozano&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=ChristianFLozano&theme=default"
-    style="max-width: 95%; height: auto;"
+    style="max-width: 85%; height: auto;"
      />
 </picture>
 
@@ -66,7 +66,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true"  style="max-width: 95%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true"  style="max-width: 85%; height: auto;"/>
 </picture>
 </div>
 
