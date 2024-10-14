@@ -48,30 +48,18 @@
 
 ![](https://komarev.com/ghpvc/?username=ChristianFLozano&style=for-the-badge)
 
-
-<div style="display:flex">
-<picture>
+<div style="display: flex; justify-content: space-around;">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChristianFLozano&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=ChristianFLozano&theme=default"
-    style="max-width: 85%; height: auto;"
-     />
-</picture>
+    <img src="https://streak-stats.demolab.com?user=ChristianFLozano&theme=default" style="max-width: 300px; height: auto;" alt="GitHub Streak Stats" />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true"  style="max-width: 85%; height: auto;"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true" style="max-width: 300px; height: auto;" alt="GitHub Stats" />
+  </picture>
 </div>
-
-
-
 
 
 
