@@ -33,7 +33,7 @@
 
 
 ## Technologies and tools  
-![Lenguajes y Herramientas](https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,java,nodejs,react,postgresql,git,github,linux)
+![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github,linux)
 
 
 ## Videos
