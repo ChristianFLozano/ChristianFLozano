@@ -18,26 +18,16 @@
 
 ----
 
-### Achievements  
-- 🛡️ TryHackMe progress:  
-<a href="https://tryhackme.com/r/p/christian.flores" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/christian.flores.png" alt="Your Image Badge" width=400 />
-</a>
-
-#### Certificate
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-E9TQVYIHM2.png" target="_blank">
-    <img  src="./images/THM-E9TQVYIHM2.png" width=700 />
-</a>
 
 ---
 
 
 ## Technologies and tools  
-![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github,linux)
+![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github)
 
 
 ## Videos
-*If you click on any image, it will take you to the video*
+*If you click on the image, it will take you to the video*
 <div style="display: flex; flex-wrap:wrap;  justify-content: space-around;">
 <a href="https://youtu.be/yJIszNXLZRk?si=Qb5J9ZcNJD7rh4Ip" target="_blank">
 <img src="./images/Portada.png" alt="SubirRepositorio" style="max-width: 40%; height: auto; margin: 10px;"/>
