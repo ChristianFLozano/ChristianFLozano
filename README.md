@@ -2,7 +2,7 @@
 
 ## About me!  
 - 👨‍💻 I'm @ChristianFLozano  
-- 📚 I study informatic engeenering at CUCEI  
+- 📚 I study informatic engineering at CUCEI  
 - 💡 I love technology, I believe that it is the future  
 -  ❤ I like make videos that help to my friends
 
