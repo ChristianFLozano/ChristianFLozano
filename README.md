@@ -3,8 +3,7 @@
 ## About me!  
 - 👨‍💻 I'm @ChristianFLozano  
 - 📚 I study informatic engeenering at CUCEI  
-- 🎶 I love music, special **corridos tumbados**, like **Peso Pluma**  
-- 💡 I love technology, beacause I believe that it is the future  
+- 💡 I love technology, I believe that it is the future  
 -  ❤ I like make videos that help to my friends
 
 
@@ -17,10 +16,6 @@
 </div>
 
 ----
-
-
----
-
 
 ## Technologies and tools  
 ![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github)
