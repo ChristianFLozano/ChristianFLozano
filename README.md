@@ -18,7 +18,7 @@
 ----
 
 ## Technologies and tools  
-![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github)
+![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github,cpp,java)
 
 
 ## Videos
