@@ -6,17 +6,6 @@
 - 💡 I love technology, I believe that it is the future  
 
 
-
-----
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31r573ukk5uugd5q66b2bnkqmxai&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r573ukk5uugd5q66b2bnkqmxai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Playing"/>
-  </a>
-</div>
-
-----
-
 ## Technologies and tools  
 ![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github,cpp,java)
 
