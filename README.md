@@ -1,13 +1,12 @@
 # Hi, I'm Jhovany 👋
 
 ## About me!  
-- 👨‍💻 I'm @ChristianFLozano  
-- 📚 I'm studying informatic engineering at CUCEI  
-- 💡 I love technology, I believe that it is the future  
-
+- 👨‍💻 I'm @ChristianFLozano.
+- 📚 I'm currently studying informatic engineering at CUCEI.
+- 💡 I'm passionated by the world of technology 
 
 ## Technologies and tools  
-![Lenguajes y Herramientas](https://skillicons.dev/icons?i=tailwind,js,react,git,github,cpp,java)
+![Lenguajes y Herramientas](https://skillicons.dev/icons?i=python,tailwind,js,react,git,github,cpp,java,linux)
 
 
 ## Videos
@@ -18,22 +17,6 @@
 </a>
 </div>
 
-## GitHub Statistics  
-
-![](https://komarev.com/ghpvc/?username=ChristianFLozano&style=for-the-badge)
-
-<div style="display: flex; justify-content: space-around;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ChristianFLozano&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=ChristianFLozano&theme=default" style="max-width: 300px; height: auto;" alt="GitHub Streak Stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true&theme=dark" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ChristianFLozano&show_icons=true" style="max-width: 300px; height: auto;" alt="GitHub Stats" />
-  </picture>
-</div>
 
 
 
